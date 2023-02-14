@@ -1,0 +1,3 @@
+[submodule "wow_and_flutter/kosmo-lib"]
+	path = wow_and_flutter/kosmo-lib
+	url = git@github.com:mprosk/kosmo-lib.git
